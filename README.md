@@ -1,4 +1,4 @@
-# 🐾 Puurfect Pals – Pet Adoption Platform
+# 🐾 Puurfect Pals – Pet Adoption and Pet Care Platform
 
 ---
 
@@ -13,10 +13,11 @@
 - 🏠 Allows users to add pets for adoption
 - ❤️ Enables users to adopt available pets
 - 👨‍⚕️ Supports online veterinary doctor appointments
-- 📷 Pet image upload support
-- 🔐 Secure user authentication
-- 📊 Centralized pet and doctor management
-- ✅ Simplifies the pet adoption and healthcare process
+- 🛠️ Allows admin to manage pets and veterinary doctors
+- 📋 Enables admin to add, update, and delete pet and doctor records
+- 📊 Provides a centralized administration dashboard
+- 🔐 Secure role-based authentication
+- ✅ Simplifies and streamlines the pet adoption and healthcare process
 
 ---
 
@@ -51,22 +52,6 @@
 
 ## 💻 Technology Stack
 
-### 🎨 Frontend
-
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-
-### ⚙️ Backend
-
-- Django
-- Python
-
-### 🗄️ Database
-
-- SQLite
-
 ### 💡 Programming Languages
 
 - Python
@@ -88,6 +73,6 @@
 
 ---
 
-## 🗃️ Database
+### 🗄️ Database
 
 - SQLite
