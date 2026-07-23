@@ -4,7 +4,7 @@
 
 ## 📖 Project Overview
 
-**Puurfect Pals** is a full-stack web application designed to simplify the pet adoption and pet care process. The platform provides a centralized system where users can browse pets, add their own pets for adoption, adopt available pets, and book appointments with veterinary doctors. Administrators manage pets, doctors, and platform content to ensure a smooth and organized adoption experience.
+**Puurfect Pals** is a full-stack web application designed to simplify the pet adoption and pet care process. The platform provides a centralized system where users can browse pets, add their own pets for adoption, adopt available pets, and book appointments with veterinary doctors. Admins manage pets, doctors, and platform content to ensure a smooth and organized adoption experience.
 
 ### 🔹 Project Summary
 
@@ -35,7 +35,7 @@
 - View appointment details
 - Manage personal pets
 
-### 👨‍💼 Administrator
+### 👨‍💼 Admin
 
 - Log in to the admin panel
 - Manage registered users
@@ -57,12 +57,10 @@
 - Python
 - HTML
 - CSS
-- JavaScript
 
 ### 🛠️ Frameworks
 
 - Django
-- Bootstrap
 
 ### 🔧 Development Tools
 
